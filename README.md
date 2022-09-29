@@ -1,11 +1,6 @@
-### Hi there 👋
+### Hi friend 👋
 
-<!--
-**dinuinfinity/dinuinfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Dinu Infinity Logo](https://user-images.githubusercontent.com/61558782/193070420-ff3c38af-8fe9-41c2-a35d-d50bd67809a9.png | width=100)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Netaxis IT Solutions
-- 🌱 I’m currently learning Technology
-- 👯 I’m looking to collaborate on you
--->
+### This is Dinu Infinity
+- we are create a new Infinity World
